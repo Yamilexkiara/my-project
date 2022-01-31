@@ -1,5 +1,5 @@
 body {
-  background-color: darkcyan;
+  background-image: var(--bs-gradient);
 }
 h1 {
   color: cornsilk;
