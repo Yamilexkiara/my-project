@@ -32,6 +32,13 @@ p {
   font-size: 16px;
   line-height: 30px;
 }
+.projects {
+  color: black;
+  text-decoration: none;
+}
+.projects :hover {
+  font-family: var(--branding-color);
+}
 .hero {
   background: var(--secondary-color);
   text-align: center;
