@@ -1,7 +1,7 @@
 :root {
-  --branding-color: #6c63ff;
-  --secondary-color: #f9f7fe;
-  --heading-font-family: "Playfair Display", serif;
+  --branding-color: #8fbc8f;
+  --secondary-color: #f8ebd7;
+  --heading-font-family: "Georgia", serif;
   --default-font-family: "Poppins", sans-serif;
 }
 body {
@@ -48,7 +48,7 @@ p {
   font-weight: bold;
   margin: 0;
 
-  color: #272142;
+  color: #092926;
 }
 .content-container {
   padding: 0;
@@ -159,6 +159,9 @@ footer .social-links a:hover {
   h2 {
     font-size: 44px;
   }
+  h4 {
+    font-size: 26px;
+  }
   .hero {
     padding: 80px 20px;
   }
@@ -169,6 +172,10 @@ footer .social-links a:hover {
   .project-description {
     padding: 0;
     text-align: center;
+  }
+  img .resize {
+    width: 50px;
+    height: auto;
   }
   nav a {
     font-size: 12px;
